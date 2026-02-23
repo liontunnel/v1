@@ -1,8 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=25&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=true&width=435&lines=FAN+VPN+REAKER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=25&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=true&width=435&lines=XLSMART+VPN+REAKER" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=25&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=true&width=435&lines=SCRIPT+BAR-BAR+ANTI+TEPAR" alt="Typing SVG" /></a>
 
-Auto Script Install All VPN Service By FanVpn
+Auto Script Install All VPN Service By XlSmartVpn
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
@@ -12,7 +12,7 @@ Auto Script Install All VPN Service By FanVpn
 </p>
 
 ### FILTUR 🔥
-![alt text](https://github.com/Pemulaajiw/permission/blob/main/install.jpg?raw=true) 
+![alt text](https://github.com/liontunnel/permission/blob/main/install.jpg?raw=true) 
 Silakan Yang mau edit script nya silakan😀.
 
 ## Sewa Autoscript
@@ -40,7 +40,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ## INSTALL SCRIPT 
 Masukkan perintah dibawah untuk menginstall Autoscript Premium
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/main/setup.sh && chmod +x setup.sh && ./setup.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/liontunnel/v1/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 ==========================================================================================
 
@@ -56,7 +56,7 @@ Masukkan perintah dibawah jika anda menggunakan OS Ubuntu Version 22 atau 24
 ```
 cd
 rm ubuntu_debian
- apt update -y && apt upgrade -y && wget -q https://github.com/liontunnel/scriptvpn/raw/refs/heads/main/ubuntu_debian && chmod +x ubuntu_debian && ./ubuntu_debian
+ apt update -y && apt upgrade -y && wget -q https://github.com/liontunnel/v1/raw/refs/heads/main/ubuntu_debian && chmod +x ubuntu_debian && ./ubuntu_debian
 cd
 rm ubuntu_debian
 ```
@@ -65,7 +65,7 @@ Masukkan perintah dibawah jika anda menggunakan OS Debian Version 11 atau 12
 ```
 cd
 rm ubuntu_debian
- apt update -y && apt upgrade -y && wget -q https://github.com/liontunnel/scriptvpn/raw/refs/heads/main/debian && chmod +x debian && ./debian
+ apt update -y && apt upgrade -y && wget -q https://github.com/liontunnel/v1/raw/refs/heads/main/debian && chmod +x debian && ./debian
 cd
 rm ubuntu_debian
 ```
@@ -74,7 +74,7 @@ Masukkan perintah dibawah untuk Jalankan Portnya
  ```
 cd
 rm port.sh
- wget -q https://github.com/liontunnel/scriptvpn/raw/refs/heads/main/port.sh && chmod +x port.sh && ./port.sh
+ wget -q https://github.com/liontunnel/v1/raw/refs/heads/main/port.sh && chmod +x port.sh && ./port.sh
 cd
 rm port.sh
 ```
@@ -95,14 +95,14 @@ rm port.sh
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
 ```
-wget -q https://raw.githubusercontent.com/liontunnel/scriptvpn/main/update.sh && bash update.sh
+wget -q https://raw.githubusercontent.com/liontunnel/v1/main/update.sh && bash update.sh
 ```
 
 ## MENU TAMBAHAN VPN
 Masukkan perintah dibawah untuk menambah vpn pptp/l2tp
 ```
-wget https://raw.githubusercontent.com/liontunnel/scriptvpn/refs/heads/main/vpn_update_script && chmod +x vpn_update_script && ./vpn_update_script
+wget https://raw.githubusercontent.com/liontunnel/v1/refs/heads/main/vpn_update_script && chmod +x vpn_update_script && ./vpn_update_script
 ```
 ### KONTAK ADMIN ✉️
 <a href="https://t.me/XLSMARTLC" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
-<a href="https://wa.me/6287812264674" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a>
+<a href="https://wa.me/6285974307436" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a>
